@@ -11,5 +11,6 @@
     "crm-employees-badges": "libs/crm/employees-badges",
     "crm-employees-projects": "libs/crm/employees-projects",
     "crm-project": "libs/crm/project"
-  }
+  },
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json"
 }
